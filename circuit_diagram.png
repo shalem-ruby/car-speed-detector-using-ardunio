@@ -1,0 +1,7 @@
+here is the image of car speed detector  before power supply using arduino we have used buzzer for alert
+
+
+thershold speed = 50 km/hr
+over speed alert : if car speed is greater than thershold speed then we get alert as over speed,below is the image of over speed.
+
+normal speed : if car speed is less than thershould speed then we get alert as normal speed,below is the image of noraml speed.
